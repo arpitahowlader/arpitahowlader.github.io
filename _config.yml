@@ -25,7 +25,7 @@ author:
   name             : "Arpita Howlader"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor Department of Computer and Communication Engineering"
-  location         : "Earth"
+  location         : "Bangladesh"
   employer         : "Patuakhali Science and Technology University"
   uri              : "https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"
   email            : "arpita.cse@pstu.ac.bd" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
