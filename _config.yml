@@ -23,9 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Arpita Howlader"
-  #pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
-  pronouns         : "Department of Computer and Communication Engineering"
+  pronouns         : "Assistant Professor"  
+  bio              : "Department of Computer and Communication Engineering"
   location         : "Bangladesh"
   employer         : "Patuakhali Science and Technology University"
   uri              : "https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"
