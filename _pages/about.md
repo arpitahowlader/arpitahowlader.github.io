@@ -12,6 +12,7 @@ Assistant Professor of Department of Computer and Communication Engineering (CCE
 Graduate studies
 ======
 I have completed Master’s degree in Computer Science and Engineering from Dhaka University of Engineering and Technology (DUET), in the year of 2020. My Master’s dissertation entitled "Distributed Multi-radio Multi-channel Communication using Directional MAC for IoT-based Wireless Networks", and I was advised by [Dr. Md. Obaidur Rahman](https://scholar.google.com/citations?user=kUqG--oAAAAJ&hl=en). The aim was to find out how to communicate with receiver node without collision by solving some well-known problems like hidden terminal problem, deafness problem, overhearing problem. In this research we detect the location and calculate the distance of IoT devices and also investigate how can use guard band as a negotiation medium.
+
 Earlier I have completed B.Sc degree in Computer Science and Engineering in 2015 from Patuakhali Science and Technology University (PSTU). My B.Sc dissertation entitled "Effectiveness of weighted graph of schema to aid the minimization and measurement of schema complexity". During my B.Sc, I was honored to receive a "Dean Merit Fellowship" and Dean Merit award.
 
 Publications and paper
@@ -32,12 +33,7 @@ For site content, there is one markdown file for each type of content, which are
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
