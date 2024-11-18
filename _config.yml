@@ -21,7 +21,7 @@ repository               : "arpitahowlader/arpitahowlader.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile.png"
   name             : "Arpita Howlader"
   pronouns         : "Assistant Professor"  
   bio              : "Department of Computer and Communication Engineering"
