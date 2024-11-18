@@ -1,28 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Assistant Professor of Department of Computer and Communication Engineering (CCE), Faculty of Computer Science and Engineering (CSE), Patuakhali Science and Technology University (PSTU), Bangladesh. My research is in Human-Centric AI with crowdsourcing and crowd sensing with a focus on high-value social domains such as accessibility, environmental sustainability, and to fuse wireless sensing technology with machine learning to address city-specific challenges and security. I am also passionate about research on digital health technology , data security as well as network security. 
 
-A data-driven personal website
+Graduate studies
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have completed Master’s degree in Computer Science and Engineering from Dhaka University of Engineering and Technology (DUET), in the year of 2020. My Master’s dissertation entitled "Distributed Multi-radio Multi-channel Communication using Directional MAC for IoT-based Wireless Networks", and I was advised by [Dr. Md. Obaidur Rahman](https://scholar.google.com/citations?user=kUqG--oAAAAJ&hl=en). The aim was to find out how to communicate with receiver node without collision by solving some well-known problems like hidden terminal problem, deafness problem, overhearing problem. In this research we detect the location and calculate the distance of IoT devices and also investigate how can use guard band as a negotiation medium.
+Earlier I have completed B.Sc degree in Computer Science and Engineering in 2015 from Patuakhali Science and Technology University (PSTU). My B.Sc dissertation entitled "Effectiveness of weighted graph of schema to aid the minimization and measurement of schema complexity". During my B.Sc, I was honored to receive a "Dean Merit Fellowship" and Dean Merit award.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications and paper
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Throughout my career, I have been fortunate to learn from and collaborate with top scholars and students, leading to 15+ scientific article publications in premiere venues such as Journal of medical virology, SN comprehensive clinical medicine, PLoS ONE, IJSDR, ICECE. 
+dedicated to mapping and assessing every sidewalk in the world using Human+AI techniques.
 
 Site-wide configuration
 ------
