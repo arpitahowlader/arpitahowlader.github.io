@@ -17,8 +17,7 @@ Earlier I have completed B.Sc degree in Computer Science and Engineering in 2015
 
 Publications and paper
 ======
-Throughout my career, I have been fortunate to learn from and collaborate with top scholars and students, leading to 15+ scientific article publications in premiere venues such as Journal of medical virology, SN comprehensive clinical medicine, PLoS ONE, IJSDR, ICECE. 
-dedicated to mapping and assessing every sidewalk in the world using Human+AI techniques.
+Throughout my career, I have been fortunate to learn from and collaborate with top scholars and students, leading to 15+ scientific article publications in premiere venues such as Journal of medical virology, SN comprehensive clinical medicine, PLoS ONE, IJSDR, ICECE. Through ore research work we are dedicated to mapping and assessing every sidewalk in the world using Human+AI techniques.
 
 Site-wide configuration
 ------
