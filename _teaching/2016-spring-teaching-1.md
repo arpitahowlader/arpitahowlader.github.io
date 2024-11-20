@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching-1
 venue: "Dhaka International University, Department of Computer Science and Engineering (CSE)"
-date: 2016-08
+date: 2016-08-14
 location: "Dhaka, Bangladesh"
 ---
 
