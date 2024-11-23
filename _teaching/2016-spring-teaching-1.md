@@ -8,7 +8,7 @@ date: 2016-08-14
 location: "Dhaka, Bangladesh"
 ---
 
-I worked as a Lecturer in the Department of Computer Science and Engineering (CSE) at Dhaka International University(DIU). The Department of CSE at DIU is a place where not only the brightest young souls from all over the country but also internationals assemble searching for a greater future. I provided lectures as a Course Instructor on Wireless network systems, Artificial Intelligence, Discrete Mathematics, and Digital Logic Systems. I worked as a supportive guide in favor of Foreign Students (such as those from Nepal, Somalia, and Nigeria).
+I worked as a Lecturer in the Department of Computer Science and Engineering (CSE) at Dhaka International University(DIU). The Department of CSE at DIU is a place where not only the brightest young souls from all over the country but also internationals assemble searching for a greater future. I worked as a supportive guide in favor of Foreign Students (such as those from Nepal, Somalia, and Nigeria).
 
 Course Instructor
 ======
