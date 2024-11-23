@@ -1,14 +1,14 @@
 ---
 title: "Teaching experience PSTU"
 collection: teaching
-type: "Undergraduate and M.Sc course "
+type: "Undergraduate and M.Sc course (CSE)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Patuakhali Science and Technology University , Department of Computer and Communication Engineering (CCE), Faculty of Computer Science and Engineering (CSE)"
+venue: "Patuakhali Science and Technology University(PSTU)"
 date: 2019-07-07
 location: "Patuakhali, Bangladesh"
 ---
 
-I am currently working as an Assistant Professor of Department of Computer and Communication Engineering (CCE), Faculty of Computer Science and Engineering (CSE), Patuakhali Science and Technology University (PSTU), Bangladesh. 
+I am currently working as an Assistant Professor at the Department of Computer and Communication Engineering (CCE), Faculty of Computer Science and Engineering (CSE), PSTU, Bangladesh. 
 
 *Undergraduate Students (Research): 4
 ------
