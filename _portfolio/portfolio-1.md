@@ -1,6 +1,6 @@
 ---
 title: "IJCACI'2024"
-excerpt: "Toward Early Detection of Neonatal Birth Asphyxia Utilizing Ensemble Machine Learning Approach 1<br/><img src='/images/birth500x300.png'>"
+excerpt: "Toward Early Detection of Neonatal Birth Asphyxia Utilizing Ensemble Machine Learning Approach <br/><img src='/images/birth500x300.png'>"
 collection: portfolio
 ---
 
