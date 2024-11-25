@@ -1,5 +1,5 @@
 ---
-permalink: /publication/
+permalink: /publications/
 title: "Workshop and Training"
 author_profile: true
 redirect_from: 
