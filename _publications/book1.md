@@ -5,7 +5,7 @@ category: books
 permalink: /publication/book1
 excerpt: 'In this article, we propose, MobileNet Mask, which is a deep learning-based multi-phase face mask detection model for preventing human transmission of SARS-CoV-2.'
 date: 2020-12-17
-venue: 'Proceedings of TCCE 2020.'
+venue: 'Proceedings of TCCE'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'SK Dey, A Howlader, C Deb. &quot;MobileNet Mask: A Multi-phase Face Mask Detection Model to Prevent
 Person-To-Person Transmission of SARS-CoV-2.&quot; <i>Proceedings of International Conference on Trends in Computational and Cognitive Engineering. Advances in Intelligent Systems and Computing, vol 1309. Springer, Singapore. </i>. https://doi.org/10.1007/978-981-33-4673-4_49.'
