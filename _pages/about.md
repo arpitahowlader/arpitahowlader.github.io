@@ -19,6 +19,11 @@ Publications and paper
 ======
 Throughout my career, I have been fortunate to learn from and collaborate with top scholars and students, leading to 15+ scientific article publications in premiere venues such as the Journal of Medical Virology, SN Comprehensive Clinical Medicine, PLoS ONE, IJSDR, ICECE. Through our research work, we are dedicated to mapping and assessing every sidewalk in the world using Human+AI techniques.
 
+Research Interest 
+=====
+Human-Computer Interaction, Machine Learning, Deep Learning, Human-Centric AI, Wireless & Sensor Systems,
+Wireless Communication Network, Internet of Things and Internet of Everything, Cyber Security
+
 Research Grants
 =====
 * [2023-2024] Funds awarded to research projects by Research and Training Center at PSTU
