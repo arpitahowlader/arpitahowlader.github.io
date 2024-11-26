@@ -1,8 +1,8 @@
 ---
-title: "Workshop on Networking Basics and Campus Network Design (WNBCND) "
+title: "Workshop on Networking Basics and Campus Network Design (WNBCND-4) "
 collection: talks
 type: "Resource Person"
-permalink: /talks/wnbcnd1
+permalink: /talks/wnbcnd4
 venue: "Distance Learning Theater (DLT), Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh "
 date: 2022-12-09
 location: "organized Department of Computer Science and Information Technology (CSTI), PSTU"
