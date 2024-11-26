@@ -2,7 +2,7 @@
 title: "Workshop on Networking Basics and Campus Network Design (WNBCND-1) "
 collection: talks
 type: "Resource Person"
-permalink: /talks/wnbcnd1
+permalink: /talks/wnbcnd
 venue: "Virtual Class Room, Patuakhali Science and Technology University (PSTU) "
 date: 2022-11-18
 location: "organized by Department of Computer Science and Information Technology (CSTI), PSTU"
