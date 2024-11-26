@@ -1,11 +1,22 @@
 ---
 permalink: /publications/
-title: "Workshop and Training"
+title: "Conference Papers"
 author_profile: true
 redirect_from: 
   - /md/
   - /publiccations.html
 ---
+
+* [C4] Sadia Zannat Reem, S.M Asaduzzaman Sumon, Arpita Howlader and Manash Sarker, “A Deep Learning Strategy for Accurate Lung Cancer Subtype Classification Using Convolutional Neural Networks”, 2024 13th International Conference on Electrical and Computer Engineering (ICECE) 2024.
+  
+* [C3] A. Howlader, K. M. Ahmed and M. O. Rahman, "Distributed Multi-radio Multi -channel Communication using Directional MAC for IoT-based Wireless Networks," 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), 2019, pp. 1-6, doi: 10.1109/STI47673.2019.9068053.
+  
+* [C2] G M. M. Bashir, A. Howlader, I. Shemu and E. Ety, "Effectiveness of minimization and measurement of schema complexity based on weighted graph," 8th International Conference on Electrical and Computer Engineering (ICECE) 2014, pp. 349-352, doi: 10.1109/ICECE.2014.7026993.
+  
+* [C1] G M. M. Bashir, A. Howlader, I. Shemu and E. Ety, "Effectiveness of weighted graph of schema to aid the minimization and measurement of schema complexity," The 8th International Conference on Software, Knowledge, Information Management and Applications (SKIMA 2014), pp. 1-5.
+
+Journal Papers:
+=====
 
 *  (J12) KMM Uddin, SK Dey, N Biswas, SC Das, A Howlader. (2024). “Toward Early Detection of Neonatal Birth Asphyxia Utilizing Ensemble Machine Learning Approach”. Proceedings of International Joint Conference on Advances in Computational Intelligence. IJCACI. Algorithms for Intelligent Systems. Springer, Singapore. [https://doi.org/10.1007/978-981-97-0180-3_4]
 
@@ -28,3 +39,13 @@ redirect_from:
 *   (J2) SK Dey, MM Rahman, UR Siddiqi, A. Howlader; "Epidemic Trend Analysis of SARS-CoV-2 in SAARC Countries Using Modified SIR (M-SIR) Predictive Model", medRxiv 2020.06.29.20142513.
 
 *   (J1) Dey SK, Rahman MM, Siddiqi UR, Howlader A. “Early Outbreak Analysis of COVID-19 Epidemic: China and Global Health Perspectives”. Research Square 2020. DOI: 10.21203/rs.3.rs-44328/v1.
+
+
+Book Chapter:
+=====
+
+* (Ch.3) SK Dey, A Howlader, C Deb, “MobileNet Mask: A Multi-phase Face Mask Detection Model to Prevent Person-To-Person Transmission of SARS-CoV-2”, Proceedings of International Conference on Trends in Computational and Cognitive Engineering 2021, 603-613, Springer, Singapore.
+  
+* [Ch.2] Howlader A., Dey S.K., “RP-DMAC: Receiver Pivotal Directional MAC with Multichannel for IoT Based WSN”. International Conference on Cyber Security and Computer Science, Springer, Cyber Security and Computer Science 2020, vol 325. DOI: 0.1007/978-3-030-52856-0_4.
+  
+* [Ch.1] Howlader A., Shemu, I., Ety, E “Efficacy of Weighted Graph to Minimize & Measure of Schema Complexity”, Lambert Academic Publishing, Germany 2015.
