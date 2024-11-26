@@ -10,7 +10,7 @@ location: "Department of Computer Science and Information Technology (CSTI), Pat
 
 [More information here](https://safe.cse.pstu.ac.bd/event/event-details/28)
 
-Each webinar is 2 days long.
+Each webinar is 2 days long. Course Name: Basic Campus Network Design    
 * PART-I
     * Download PART-I Presentation Slide
     * PART-I Recorded Video
