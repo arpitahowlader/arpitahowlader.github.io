@@ -2,7 +2,7 @@
 title: "Workshop on Campus Network Design and Its Operation (WCNDIO) "
 collection: talks
 type: "Resource Person on"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/wcndio
 venue: "Training course, project under the Asi@Connect project funded by EC/Asi@Connect/TEIN*CC "
 date: 2022-09-01
 location: "Department of Computer Science and Information Technology (CSTI), Patuakhali Science and Technology University "
