@@ -5,7 +5,7 @@ type: "Resource Person"
 permalink: /talks/wnbcnd4
 venue: "Distance Learning Theater (DLT), Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh "
 date: 2022-12-09
-location: "organized Department of Computer Science and Information Technology (CSTI), PSTU"
+location: "organized by Department of Computer Science and Information Technology (CSTI), PSTU"
 ---
 [More information here](https://www.tein.asia/sub/index.php?page=1&mc=6030&idx=2600&a=view)
 
