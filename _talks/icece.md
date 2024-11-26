@@ -1,7 +1,7 @@
 ---
-title: "Presentation on Effectiveness of minimization and measurement of schema complexity"
+title: "Conference proceedings talk, ICECE-2014"
 collection: talks
-type: "Conference proceedings talk"
+type: "Presentation on Effectiveness of minimization and measurement of schema complexity"
 permalink: /talks/icece
 venue: "ICECE-2014 - Bangladesh University of Engineering & Technology"
 date: 2014-12-20
