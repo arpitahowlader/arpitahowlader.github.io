@@ -1,7 +1,7 @@
 ---
-title: "Presentation on DMMD - MAC for IoT-based Wireless Networks"
+title: "Conference proceedings talk, STI-2019"
 collection: talks
-type: "Conference proceedings talk"
+type: "Presentation on DMMD - MAC for IoT-based Wireless Networks"
 permalink: /talks/conference-sti
 venue: "STI-2019 - Faculty of Science & Engineering | Green University of Bangladesh"
 date: 2019-12-24
