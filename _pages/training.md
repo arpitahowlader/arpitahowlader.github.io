@@ -24,24 +24,24 @@ redirect_from:
 Technical Committee (TC) Member
 =====
 
-* [2024] TC member, PSTU IT Carnival 2024, CSE Club, PSTU
-* [2024] TC member, Intra PSTU Independence Day Programming Contest 2024, PSTU
-* [2024] Organizer Committee Member, 𝟏𝟒𝐭𝐡 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐝 𝟐𝟎23
-* [2023] TC member, PSTU IT Carnival – 2023, CSE Club, PSTU
-* [2023] TC member General Science and Technology (GST) Admission System, PSTU
-* [2023] TC member, Agricultural University Cluster System Admission (ACAS) Admission System, PSTU
-* [2023] Member Secretary, Cultural Program in CSE faculty at the PSTU.
+* [2024] TC member, **PSTU IT Carnival 2024**, CSE Club, PSTU
+* [2024] TC member, **Intra PSTU Independence Day Programming Contest 2024**, PSTU
+* [2024] Organizer Committee Member, **14th National Undergraduate Mathematics Olympiad 2023**, Barisal Division 
+* [2023] TC member, **PSTU IT Carnival – 2023**, CSE Club, PSTU
+* [2023] TC member General Science and Technology **(GST) Admission System**, PSTU
+* [2023] TC member, Agricultural University Cluster System Admission **(ACAS) Admission System**, PSTU
+* [2023] Member Secretary, **Cultural Program** in CSE faculty at the PSTU.
 * [2022] TC member General Science and Technology (GST) Admission System, PSTU
 * [2022] TC member, Agricultural University Cluster System Admission (ACAS) Admission System, PSTU
 * [2022] TC member, 𝐏𝐒𝐓𝐔 𝐆𝐢𝐫𝐥𝐬 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐞𝐬𝐭 𝟐𝟎𝟐𝟐, CSE Club, PSTU
-* [2022] Technical Program Committee (TPC) member and Reviewer, International Conference on Intelligent Vision and Computing, Agartala, India.
+* [2022] Technical Program Committee (TPC) member and Reviewer, **International Conference** on Intelligent Vision and Computing, Agartala, India.
 * [2021] TC member, General Science and Technology (GST) Admission System, PSTU
 * [2021] Member Secretary, Cultural Program in CSE faculty at the PSTU.
 * [2021] TC member, Agricultural University Cluster System Admission (ACAS) Admission System, PSTU
-* [2020] Curriculum Committee Member, Masters OBE based Curriculum Computer and Communication Engineering (CCE) at the PSTU
+* [2020] Curriculum Committee Member, **Masters OBE based Curriculum** Computer and Communication Engineering (CCE) at the PSTU
 * [2020] Member Secretary, Cultural Program in CSE faculty at the PSTU.
-* [2019] Organizer Committee Member, DIU CSE Mujib Borsho IT Carnival 2019 Dhaka, Bangladesh
-* [2018] Organizer & Problem Setter, DIU Intra University Programming Contest-2018
+* [2019] Organizer Committee Member, **DIU CSE Mujib Borsho IT Carnival 2019**, Dhaka, Bangladesh
+* [2018] Organizer & Problem Setter, **DIU Intra University Programming Contest-2018**
 * [2016] Organizer Committee Member, DIU CSE IT Carnival-2016
-* [2014] Student Organizer, PSTU CSE Independence Day IT Carnival-2014
+* [2014] Student Organizer, **PSTU CSE Independence Day IT Carnival-2014**
 
