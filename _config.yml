@@ -25,8 +25,8 @@ author:
   name             : "Arpita Howlader"
   pronouns         : "Assistant Professor"  
   bio              : "Department of Computer and Communication Engineering"
-  #location         : "Bangladesh"
-  employer         : "Patuakhali Science and Technology University ["https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"]"
+  location         : "https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"
+  employer         : "Patuakhali Science and Technology University"
   uri              : "https://pstu.ac.bd/user-profile/575"
   email            : "arpita.cse@pstu.ac.bd" 
 
