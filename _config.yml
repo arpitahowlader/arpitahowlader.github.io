@@ -26,12 +26,12 @@ author:
   pronouns         : "Assistant Professor"  
   bio              : "Department of Computer and Communication Engineering"
   #location         : "Bangladesh"
-  employer         : "Patuakhali Science and Technology University"
-  uri              : "https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"
+  employer         : "Patuakhali Science and Technology University ["https://pstu.ac.bd/faculty/faculty-of-computer-science-and-engineering"]"
+  uri              : "https://pstu.ac.bd/user-profile/575"
   email            : "arpita.cse@pstu.ac.bd" 
 
   # Academic websites
-  Profile            : "https://pstu.ac.bd/user-profile/575"
+ # Profile            : "https://pstu.ac.bd/user-profile/575"
   googlescholar    : "https://scholar.google.com/citations?user=Cov09l0AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5413-2277"
