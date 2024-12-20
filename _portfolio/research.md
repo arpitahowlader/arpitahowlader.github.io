@@ -1,7 +1,7 @@
 ---
 title: "IJCACI'2024"
-excerpt: "Epidemic trend analysis of SARS-CoV-2 in South Asian Association for Regional Cooperation countries using modified susceptible-infected-recovered predictive model<br/><img src='/images/birth500x300.png'>"
+excerpt: "Epidemic trend analysis of SARS-CoV-2 in South Asian Association for Regional Cooperation countries using modified susceptible-infected-recovered predictive model<br/><img src='/images/IJCACI.png'>"
 collection: portfolio
 ---
 
-
+A novel coronavirus causing severe and fatal respiratory syndrome was identified in China, is now producing outbreaks in more than 200 countries around the world, and has become a pandemic by the time. In this article, a modified version of the well-known mathematical epidemic model susceptible-infected-recovered (SIR) is used to analyze the epidemic course of COVID-19 in eight different countries of the South Asian Association for Regional Cooperation (SAARC). To achieve this goal, the parameters of the SIR model are identified by using publicly available data for the corresponding countries: Afghanistan, Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan, and Sri Lanka. Based on the prediction model, we estimated the epidemic trend of the COVID-19 outbreak in SAARC countries for 20, 90, and 180 days, respectively. A short-mid-long-term prediction model has been designed to understand the early dynamics of the COVID-19 epidemic in the Southeast Asian region. The maximum and minimum basic reproduction numbers (R0 = 1.33 and 1.07) for SAARC countries are predicted to be in Pakistan and Bhutan. We equated simulation results with real data in the SAARC countries on the COVID-19 outbreak and predicted different scenarios using the modified SIR prediction model. Our results should provide policymakers with a method for evaluating the impacts of possible interventions, including lockdown and social distancing, as well as testing and contact tracking.
