@@ -1,5 +1,5 @@
 ---
-title: "IJCACI'2024"
+title: "WILEY'22"
 excerpt: "Epidemic trend analysis of SARS-CoV-2 in South Asian Association for Regional Cooperation countries using modified susceptible-infected-recovered predictive model<br/><img src='/images/IJCACI.png'>"
 collection: portfolio
 ---
